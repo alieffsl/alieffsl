@@ -91,6 +91,27 @@ Feel free to reach out for collaborations, interesting projects, or just to have
   </a>
 </p>
 
+<body>
+<div class="DevIcons" style="display: inline; margin: 1.5rem">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" />
+    <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" />
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" />
+    <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" />
+    <img height="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" />
+    <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" />
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" />
+    <img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" />
+</div>
+</body>
+
 
 ## 📊 GitHub Stats:
 
