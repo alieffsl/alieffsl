@@ -96,7 +96,5 @@ Feel free to reach out for collaborations, interesting projects, or just to have
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieffsl&theme=dark&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=alieffsl&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieffsl&theme=cobalt)](https://github.com/alieffsl/github-readme-stats)
+[![alieffsl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieffsl&show_icons=true&theme=cobalt)](https://github.com/alieffsl/github-readme-stats)
