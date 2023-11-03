@@ -13,9 +13,9 @@ I'm an aspiring AI/ML Engineer with a passion for solving real-world challenges.
 
 I'm currently focusing on enhancing my skills in:
 
-- Advanced Machine Learning techniques
-- Web Development with React.js
-- Cloud Computing and Deployment Strategies
+- Advanced Machine Learning techniques, particularly in supervised learning
+- Implementing PID control for precise line following and solving complex line mazes
+- Exploring Computer Vision with the OpenCV library
 
 ## 🛠️ Projects
 
