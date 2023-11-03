@@ -1,7 +1,7 @@
 # 🚀 Hi there! 👋 I'm Alief Faisal!
 
 I'm an aspiring AI/ML Engineer with a passion for solving real-world challenges. Excited about the endless possibilities in the tech world!
-<img align="right" alt="my" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="my" width="400" src="https://raw.githubusercontent.com/alieffsl/alieffsl/main/_13d19b0b-1d65-413b-8b09-c525cb57c420.jpg">
 
 ## 🔧 Skills & Tools
 
