@@ -96,5 +96,6 @@ Feel free to reach out for collaborations, interesting projects, or just to have
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieffsl&theme=cobalt)](https://github.com/alieffsl/github-readme-stats)
-[![alieffsl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieffsl&show_icons=true)](https://github.com/alieffsl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieffsl&theme=light)](https://github.com/alieffsl/github-readme-stats)
+[![alieffsl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieffsl&show_icons=true&theme=light)](https://github.com/alieffsl/github-readme-stats)
+
