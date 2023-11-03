@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alief Faisal.
+# Hi there! 👋 I'm Alief Faisal!
 
 I'm an aspiring Artificial Intelligence Engineer passionate about creating innovative solutions to real-world problems. Currently studying Robotics and Artificial Intelligence at Universitas Airlangga.
 
@@ -19,20 +19,19 @@ I'm currently focusing on enhancing my skills in:
 
 ## 🛠️ Projects
 
-- [Project 1 Name](Link to Project 1): Brief description of the project.
-- [Project 2 Name](Link to Project 2): Brief description of the project.
-- [Project 3 Name](Link to Project 3): Brief description of the project.
+- [Robotics Experiment I](Link to Project 1): Brief description of the project.
+- [Robotics Experiment II](Link to Project 2): Brief description of the project.
 
 ## 📚 Education
 
-- **B.Sc. in Robotics and Artificial Intelligence**
-  Universitas Airlangga, Surabaya, Indonesia (20XX - Present)
+- **B.Eng. in Robotics and Artificial Intelligence**
+  Universitas Airlangga, Surabaya, Indonesia (2021 - Present)
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [M Alief Faisal Hakim](https://www.linkedin.com/in/alieffsl/)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Email: your.email@example.com
+- Email: malieffaisal@gmail.com
 
 Feel free to reach out for collaborations, interesting projects, or just to have a chat! 😊
 
