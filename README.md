@@ -57,9 +57,6 @@ Feel free to reach out for collaborations, interesting projects, or just to have
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="30" height="30"/>
 
-
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alieffsl&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alieffsl&theme=react&hide_border=true)<br/>
