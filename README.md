@@ -1,7 +1,7 @@
 # 🚀 Hi there! 👋 I'm Alief Faisal!
 
 <div style="display: flex; align-items: center;">
-    <img align="right" alt="my" width="300" src="https://raw.githubusercontent.com/alieffsl/alieffsl/main/_13d19b0b-1d65-413b-8b09-c525cb57c420.jpg">
+    <img align="right" alt="my" width="200" src="https://raw.githubusercontent.com/alieffsl/alieffsl/main/_13d19b0b-1d65-413b-8b09-c525cb57c420.jpg">
     <div>
         <p>I'm an aspiring AI/ML Engineer with a passion for solving real-world challenges. Excited about the endless possibilities in the tech world!</p>
     </div>
