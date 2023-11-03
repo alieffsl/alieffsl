@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Alief Faisal!
 
-I'm an aspiring AI/ML Engineer with a passion for solving real-world challenges. Currently studying Robotics and Artificial Intelligence at [Universitas Airlangga](ftmm.unair.ac.id). Excited about the endless possibilities in the tech world!
+I'm an aspiring AI/ML Engineer with a passion for solving real-world challenges. Currently studying Robotics and Artificial Intelligence at [Universitas Airlangga](https://ftmm.unair.ac.id/). Excited about the endless possibilities in the tech world!
 
 ## 🔧 Skills & Tools
 
