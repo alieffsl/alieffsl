@@ -20,7 +20,7 @@ I'm currently focusing on enhancing my skills in:
 ## 🛠️ Projects
 
 - [Robotics Lab I - Maze Solving](https://github.com/alieffsl/Robotics-Lab-I-Maze-Solving)
-- [Robotics Lab II - Line Following](Link to Project 2): Brief description of the project.
+- [Robotics Lab II - Line Following](https://github.com/alieffsl/Robotics-Lab-II-Line-Following)
 - [Machine Learning Lab](https://github.com/alieffsl/Kuliah-Praktikum-Pembelajaran-Mesin)
 
 ## 📚 Education
