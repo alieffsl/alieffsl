@@ -30,11 +30,9 @@ I'm currently focusing on enhancing my skills in:
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Alief Faisal](https://www.linkedin.com/in/alieffsl/)
+- LinkedIn: https://www.linkedin.com/in/alieffsl/
 - Twitter: [Alief Faisal](https://twitter.com/alieffsl)
-- Email 1: malieffaisal@gmail.com
-- Email 2: m.alief.faisal.hakim-2021@ftmm.unair.ac.id
-
+- Email: malieffaisal@gmail.com
 Feel free to reach out for collaborations, interesting projects, or just to have a chat! 😊
 
 ![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
