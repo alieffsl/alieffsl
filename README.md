@@ -92,8 +92,6 @@ Feel free to reach out for collaborations, interesting projects, or just to have
 </p>
 
 
-
-
 ## 📊 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieffsl&theme=cobalt)](https://github.com/alieffsl/github-readme-stats)
