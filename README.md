@@ -11,16 +11,16 @@
 
 - **Languages:** Python, C++, JavaScript
 - **Technologies:** Machine Learning, TensorFlow, PyTorch
-- **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, VS Code, Jupyter Notebook
+  <!---- **Databases:** MySQL, PostgreSQL --->
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on enhancing my skills in:
+<!---- I'm currently focusing on enhancing my skills in:
 
 - Advanced Machine Learning techniques, particularly in supervised learning
 - Implementing PID control for precise line following and solving complex line mazes
-- Exploring Computer Vision with the OpenCV library
+- Exploring Computer Vision with the OpenCV library --->
 
 ## 🛠️ Projects
 
