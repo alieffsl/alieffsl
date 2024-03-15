@@ -10,13 +10,13 @@
 ## 🔧 Skills & Tools
 
 - **Languages:** Python, C++, JavaScript
-- **Technologies:** Machine Learning, TensorFlow, PyTorch
+- **Technologies:** Machine Learning, PyTorch
 - **Tools:** Git, VS Code, Jupyter Notebook
   <!---- **Databases:** MySQL, PostgreSQL --->
 
-## 🌱 Currently Learning
+<!---- ## 🌱 Currently Learning
 
-<!---- I'm currently focusing on enhancing my skills in:
+ I'm currently focusing on enhancing my skills in:
 
 - Advanced Machine Learning techniques, particularly in supervised learning
 - Implementing PID control for precise line following and solving complex line mazes
@@ -26,7 +26,7 @@
 
 - [Robotics Lab I - Maze Solving](https://github.com/alieffsl/Robotics-Lab-I-Maze-Solving)
 - [Robotics Lab II - Line Following](https://github.com/alieffsl/Robotics-Lab-II-Line-Following)
-- [Machine Learning Lab](https://github.com/alieffsl/Kuliah-Praktikum-Pembelajaran-Mesin)
+- [Machine Learning Lab](https://github.com/alieffsl/Mastering-Supervised-ML-JCOp)
 
 ## 📚 Education
 
