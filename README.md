@@ -10,23 +10,23 @@
 ## 🔧 Skills & Tools
 
 - **Languages:** Python, C++, JavaScript
-- **Technologies:** Machine Learning, PyTorch
-- **Tools:** Git, VS Code, Jupyter Notebook
-  <!---- **Databases:** MySQL, PostgreSQL --->
+- **Technologies:** TensorFlow, PyTorch, ROS (Robot Operating System)
+- **Tools:** GitHub, VSCode, Jupyter Notebook, Colab
+- **Databases:** BigQuery
 
-<!---- ## 🌱 Currently Learning
+## 🌱 Currently Learning
 
  I'm currently focusing on enhancing my skills in:
 
-- Advanced Machine Learning techniques, particularly in supervised learning
-- Implementing PID control for precise line following and solving complex line mazes
-- Exploring Computer Vision with the OpenCV library --->
+- TensorFlow: Data and Deployment
+- TensorFlow: Advanced Techniques
+- Generative AI
 
 ## 🛠️ Projects
 
-- [Robotics Lab I - Maze Solving](https://github.com/alieffsl/Robotics-Lab-I-Maze-Solving)
-- [Robotics Lab II - Line Following](https://github.com/alieffsl/Robotics-Lab-II-Line-Following)
-- [Machine Learning Lab](https://github.com/alieffsl/Mastering-Supervised-ML-JCOp)
+- [Cloud Computing Midterm Project - Customer Churn Prediction](https://github.com/alieffsl/customer-churn-pred)
+- [Robotics Lab II - Line Following](https://github.com/alieffsl/eksbot-2-linefollowing)
+- [Robotics Lab I - Maze Solving](https://github.com/alieffsl/eksbot-1-mazesolving)
 
 ## 📚 Education
 
@@ -46,8 +46,8 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" />
     <img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" />
     <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" />
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" />
+<!--     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /> -->
+<!--     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" /> -->
     <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" />
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" />
