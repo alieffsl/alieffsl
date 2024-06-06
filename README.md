@@ -9,18 +9,15 @@
 
 ## 🔧 Skills & Tools
 
-- **Languages:** Python, C++, JavaScript
+- **Languages:** Python, C++, JS
 - **Technologies:** TensorFlow, PyTorch, ROS (Robot Operating System)
-- **Tools:** GitHub, VSCode, Jupyter Notebook, Colab
-- **Databases:** BigQuery
 
 ## 🌱 Currently Learning
 
  I'm currently focusing on enhancing my skills in:
 
-- TensorFlow: Data and Deployment
-- TensorFlow: Advanced Techniques
-- Generative AI
+- MLOps
+- NLP Specialization
 
 ## 🛠️ Projects
 
